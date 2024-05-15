@@ -15,7 +15,12 @@ const Ragisterpages = () => {
               type="email"
               required
             />
-            <input placeholder="Password" name="Password" type="password" />
+            <input
+              placeholder="Password"
+              name="Password"
+              type="password"
+              required
+            />
             <input
               placeholder="Confirm Password"
               name="Confirm Password"
